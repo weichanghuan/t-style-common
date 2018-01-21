@@ -26,4 +26,9 @@ public final class Constants {
      */
     public static final int TIMEOUT = 5000;
 
+    /**
+     * 同步发送超时时间
+     */
+    public static final int SYNTIMEOUT = 5000;
+
 }

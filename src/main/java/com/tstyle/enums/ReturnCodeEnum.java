@@ -34,6 +34,11 @@ public enum ReturnCodeEnum {
      * 参数错误
      */
     PARAMETER_ERROR("F0000001", "参数错误"),
+
+    /**
+     * 系统异常
+     */
+    SYSTEM_EXCEPTION("F0000999", "系统异常"),
     /**
      * 失败
      */
