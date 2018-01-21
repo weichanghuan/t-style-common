@@ -13,7 +13,7 @@ package com.tstyle.enums.web;
 
 /**
  * @description:功能代码枚举类
- * @author jiong.peng
+ * @author weichanghuan
  */
 public enum FunctionCodeEnum {
     /**

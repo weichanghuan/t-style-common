@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * Handler服务接口
  * 
- * @author jiong.peng
+ * @author weichanghuan
  *
  */
 public interface HandlerService {

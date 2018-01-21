@@ -5,7 +5,7 @@ import com.tstyle.enums.ReturnCodeEnum;
 /**
  * 基础响应服务类
  * 
- * @author jiong.peng
+ * @author weichanghuan
  *
  */
 public class BaseResponse {

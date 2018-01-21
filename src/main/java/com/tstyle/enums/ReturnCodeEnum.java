@@ -13,10 +13,7 @@ package com.tstyle.enums;
 
 /**
  * @description:返回错误码定义枚举
- * @reason:TODO ADD REASON(可选)
- * @author jiong.peng
- * @date 2017年5月16日 上午9:55:51
- * @since JDK 1.6
+ * @author weichanghuan
  */
 public enum ReturnCodeEnum {
 

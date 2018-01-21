@@ -6,7 +6,7 @@ package com.tstyle.handler.common;
 /**
  * 基础请求类
  * 
- * @author jiong.peng
+ * @author weichanghuan
  *
  */
 public class BaseRequest {

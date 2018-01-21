@@ -13,7 +13,7 @@ package com.tstyle.enums.web;
 
 /**
  * @description:操作类请求枚举类
- * @author cheng.tao
+ * @author weichanghuan
  */
 public enum ActionTypeEnum {
     /**

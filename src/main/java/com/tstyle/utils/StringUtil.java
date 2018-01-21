@@ -7,7 +7,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @author jack.liu 对字符串操作.
+ * @author weichanghuan 对字符串操作.
  */
 public class StringUtil {
     private StringUtil() {
@@ -945,8 +945,6 @@ public class StringUtil {
      * 
      * @param amount
      * @return
-     * @author jiong.peng
-     * @date 2017年7月23日 下午10:16:50
      */
     public static String formatAmount(BigDecimal amount) {
         DecimalFormat format = new DecimalFormat(",##0.00");
@@ -959,8 +957,6 @@ public class StringUtil {
      * 
      * @param vol
      * @return
-     * @author jiong.peng
-     * @date 2017年7月23日 下午10:17:13
      */
     public static String formatVol(BigDecimal vol) {
         return formatAmount(vol);
