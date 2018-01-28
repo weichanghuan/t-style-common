@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.tstyle.handler.common;
 
 import java.util.Map;
