@@ -39,4 +39,9 @@ public enum ActionTypeEnum {
         }
         return null;
     }
+
+
+    public static void main(String[] args) {
+
+    }
 }
